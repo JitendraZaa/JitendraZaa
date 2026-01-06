@@ -38,11 +38,7 @@ I'm an **Enterprise Architect** with **18+ years** of experience specializing in
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JitendraZaa&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JitendraZaa&theme=github-light&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JitendraZaa&theme=github-light&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -60,7 +56,8 @@ I'm an **Enterprise Architect** with **18+ years** of experience specializing in
 
 ### Certifications & Recognition
 
-- **36x Salesforce Certified** (Technical Architect, Application Architect, System Architect, Platform Developer, and more)
+- **Salesforce Certified Technical Architect (CTA)** - Highest level certification in Salesforce ecosystem
+- **36x Salesforce Certified** (Application Architect, System Architect, Platform Developer, and more)
 - **Salesforce MVP**
 - **Arctic Code Vault Contributor** (GitHub Achievement)
 - **Marquis Who's Who** - Top Engineers 2024
