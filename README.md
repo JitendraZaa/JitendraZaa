@@ -12,7 +12,7 @@
 I'm an **Enterprise Architect** with **18+ years** of experience specializing in **Salesforce**, **ServiceNow**, and **J2EE** development. I'm passionate about building scalable enterprise solutions and exploring the intersection of **Salesforce + AI**.
 
 - Currently exploring **Agentforce** and **AI-powered Salesforce solutions**
-- **7x Salesforce Certified** | **Salesforce MVP**
+- **36x Salesforce Certified** | **Salesforce MVP**
 - Author at [jitendrazaa.com/blog](https://jitendrazaa.com/blog)
 - Open to collaborating on **Salesforce + AI** projects
 
@@ -38,15 +38,11 @@ I'm an **Enterprise Architect** with **18+ years** of experience specializing in
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraZaa&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=JitendraZaa&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JitendraZaa&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraZaa&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JitendraZaa&theme=github-light&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -64,11 +60,10 @@ I'm an **Enterprise Architect** with **18+ years** of experience specializing in
 
 ### Certifications & Recognition
 
-- **7x Salesforce Certified** (Technical Architect, Platform Developer, etc.)
+- **36x Salesforce Certified** (Technical Architect, Application Architect, System Architect, Platform Developer, and more)
 - **Salesforce MVP**
 - **Arctic Code Vault Contributor** (GitHub Achievement)
 - **Marquis Who's Who** - Top Engineers 2024
-- **CTA-GoF Hall of Fame** Member
 
 ---
 
@@ -78,13 +73,13 @@ I'm an **Enterprise Architect** with **18+ years** of experience specializing in
   <a href="https://jitendrazaa.com/blog" target="_blank">
     <img src="https://img.shields.io/badge/Blog-jitendrazaa.com-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
   </a>
-  <a href="https://linkedin.com/in/jaborawala" target="_blank">
+  <a href="https://www.linkedin.com/in/jitendrazaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/JitendraZaa" target="_blank">
+  <a href="https://twitter.com/jitendrazaa" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.youtube.com/@JitendraZaa" target="_blank">
+  <a href="https://www.youtube.com/channel/UCbhMqw4JGvDMj9sd8z77jug" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.salesforce.com/trailblazer/jitendrazaa" target="_blank">
